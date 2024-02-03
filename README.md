@@ -17,7 +17,9 @@ This Todo App is a simple yet powerful tool to help manage your daily tasks effi
 ## Built With
 
 React - The web framework used
+
 TypeScript - For type-safe code
+
 react-beautiful-dnd - For drag and drop functionality
 
 ## Demo Photos
