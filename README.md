@@ -1,7 +1,3 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 # Todo App
 
 This Todo App is a simple yet powerful tool to help manage your daily tasks efficiently. Built with React and TypeScript, it features a user-friendly interface that allows users to add, delete, and mark tasks as complete. The app also supports drag-and-drop functionality for easy task organization.
