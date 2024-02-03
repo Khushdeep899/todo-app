@@ -2,6 +2,33 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Todo App
+
+This Todo App is a simple yet powerful tool to help manage your daily tasks efficiently. Built with React and TypeScript, it features a user-friendly interface that allows users to add, delete, and mark tasks as complete. The app also supports drag-and-drop functionality for easy task organization.
+
+## Features
+
+- Add new tasks to your todo list
+- Mark tasks as completed or undo them
+- Delete tasks you no longer need
+- Drag and drop to reorder tasks
+- Responsive design for desktop and mobile use
+
+## Built With
+
+React - The web framework used
+TypeScript - For type-safe code
+react-beautiful-dnd - For drag and drop functionality
+
+## Demo Photos
+
+<img width="1680" alt="Screenshot 2024-02-02 at 6 14 59 PM" src="https://github.com/Khushdeep899/todo-app/assets/34795705/dba91614-4a7b-4984-80c8-d212d4939182">
+
+![Screenshot 2024-02-02 at 6 15 21 PM](https://github.com/Khushdeep899/todo-app/assets/34795705/7a685456-5ad7-4ebb-a638-e958718d5b83)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
